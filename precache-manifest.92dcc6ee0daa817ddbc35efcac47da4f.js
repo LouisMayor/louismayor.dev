@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b893c3e616feca887aa07233831990c",
+    "revision": "8aaf92612ce9c89f4eeb00d684f13efa",
     "url": "/louismayor.dev/index.html"
   },
   {
-    "revision": "07c97a18cf1914b98b40",
-    "url": "/louismayor.dev/static/css/main.b1efa470.chunk.css"
+    "revision": "3f33eecc876ac3cd17d7",
+    "url": "/louismayor.dev/static/css/main.63a27379.chunk.css"
   },
   {
     "revision": "a525129127f59c4a79ae",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/louismayor.dev/static/js/2.2059216d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07c97a18cf1914b98b40",
-    "url": "/louismayor.dev/static/js/main.1d269219.chunk.js"
+    "revision": "3f33eecc876ac3cd17d7",
+    "url": "/louismayor.dev/static/js/main.92303cce.chunk.js"
   },
   {
     "revision": "09940fb344ac7d733674",

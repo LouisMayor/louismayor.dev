@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/louismayor.dev/static/css/main.b1efa470.chunk.css",
-    "main.js": "/louismayor.dev/static/js/main.1d269219.chunk.js",
-    "main.js.map": "/louismayor.dev/static/js/main.1d269219.chunk.js.map",
+    "main.css": "/louismayor.dev/static/css/main.63a27379.chunk.css",
+    "main.js": "/louismayor.dev/static/js/main.92303cce.chunk.js",
+    "main.js.map": "/louismayor.dev/static/js/main.92303cce.chunk.js.map",
     "runtime-main.js": "/louismayor.dev/static/js/runtime-main.d56c475e.js",
     "runtime-main.js.map": "/louismayor.dev/static/js/runtime-main.d56c475e.js.map",
     "static/js/2.2059216d.chunk.js": "/louismayor.dev/static/js/2.2059216d.chunk.js",
     "static/js/2.2059216d.chunk.js.map": "/louismayor.dev/static/js/2.2059216d.chunk.js.map",
     "index.html": "/louismayor.dev/index.html",
-    "precache-manifest.3e75d7eee0e4e8ba0cc0c7e4c0948d45.js": "/louismayor.dev/precache-manifest.3e75d7eee0e4e8ba0cc0c7e4c0948d45.js",
+    "precache-manifest.92dcc6ee0daa817ddbc35efcac47da4f.js": "/louismayor.dev/precache-manifest.92dcc6ee0daa817ddbc35efcac47da4f.js",
     "service-worker.js": "/louismayor.dev/service-worker.js",
-    "static/css/main.b1efa470.chunk.css.map": "/louismayor.dev/static/css/main.b1efa470.chunk.css.map",
+    "static/css/main.63a27379.chunk.css.map": "/louismayor.dev/static/css/main.63a27379.chunk.css.map",
     "static/js/2.2059216d.chunk.js.LICENSE.txt": "/louismayor.dev/static/js/2.2059216d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/louismayor.dev/static/media/4k_internal_res1.ea4ca722.jpg",
     "static/media/logo.svg": "/louismayor.dev/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.d56c475e.js",
     "static/js/2.2059216d.chunk.js",
-    "static/css/main.b1efa470.chunk.css",
-    "static/js/main.1d269219.chunk.js"
+    "static/css/main.63a27379.chunk.css",
+    "static/js/main.92303cce.chunk.js"
   ]
 }
