@@ -1,0 +1,31 @@
+all: (c)
+- [PS-01] Finish of project description boxes (looks crap) (b)
+- [PS-02] Finish content on main page (c)
+- [PS-03] Add specific pages for projects, i.e. extra detail on what I did, and some extra info (c)
+- [PS-04] Add support for CV (c)
+- [PS-05] Add few relevant personal links, i.e. Github & LinkedIn ? (c)
+- [PS-10] Make Nav Bar more friendly when reduced screenspace (c)
+
+mobile: (a)
+- [PS-06] Reduce Text size (b)
+- [PS-07] Replace parallax image effect with the image (mobile doesn't support the technique) (a)
+- [PS-08] Fix skills images and text changing size (Firefox mobile specifically) (a)
+
+desktop: (b)
+- [PS-09] Scaling zoom doesn't work well with the skills page (b)
+
+----------------------------------------------------------------------------------------------------------------
+
+Priority Ordered Available Tasks:
+-> [PS-08]
+-> [PS-07]
+[PS-01]
+-> [PS-06]
+-> [PS-09]
+[PS-02]
+[PS-03]
+[PS-04]
+[PS-05]
+[PS-10]
+
+Completed:
