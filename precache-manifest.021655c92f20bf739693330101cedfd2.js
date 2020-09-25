@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1ad3d5dce3467a468d7557d02c052a7",
+    "revision": "d3910343375b343619676dee5690d654",
     "url": "/louismayor.dev/index.html"
   },
   {
-    "revision": "702cc3df5b651229b4ba",
+    "revision": "bdd1953200f2e09cedce",
     "url": "/louismayor.dev/static/css/main.c5a34b4c.chunk.css"
   },
   {
-    "revision": "036371c7170cc7b1da12",
-    "url": "/louismayor.dev/static/js/2.18f4c7ec.chunk.js"
+    "revision": "3b8af7b60405a7186f23",
+    "url": "/louismayor.dev/static/js/2.7ab10acf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/louismayor.dev/static/js/2.18f4c7ec.chunk.js.LICENSE.txt"
+    "url": "/louismayor.dev/static/js/2.7ab10acf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "702cc3df5b651229b4ba",
-    "url": "/louismayor.dev/static/js/main.1764c79c.chunk.js"
+    "revision": "bdd1953200f2e09cedce",
+    "url": "/louismayor.dev/static/js/main.0dbc3b94.chunk.js"
   },
   {
     "revision": "09940fb344ac7d733674",
