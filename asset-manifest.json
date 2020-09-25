@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/louismayor.dev/static/css/main.c5a34b4c.chunk.css",
-    "main.js": "/louismayor.dev/static/js/main.682566ef.chunk.js",
-    "main.js.map": "/louismayor.dev/static/js/main.682566ef.chunk.js.map",
+    "main.js": "/louismayor.dev/static/js/main.1764c79c.chunk.js",
+    "main.js.map": "/louismayor.dev/static/js/main.1764c79c.chunk.js.map",
     "runtime-main.js": "/louismayor.dev/static/js/runtime-main.d56c475e.js",
     "runtime-main.js.map": "/louismayor.dev/static/js/runtime-main.d56c475e.js.map",
     "static/js/2.18f4c7ec.chunk.js": "/louismayor.dev/static/js/2.18f4c7ec.chunk.js",
     "static/js/2.18f4c7ec.chunk.js.map": "/louismayor.dev/static/js/2.18f4c7ec.chunk.js.map",
     "index.html": "/louismayor.dev/index.html",
-    "precache-manifest.a14fb36eb7968bb1e7e6fa6bdfdc1c65.js": "/louismayor.dev/precache-manifest.a14fb36eb7968bb1e7e6fa6bdfdc1c65.js",
+    "precache-manifest.ddfceff66e286028e2f208659f6c442d.js": "/louismayor.dev/precache-manifest.ddfceff66e286028e2f208659f6c442d.js",
     "service-worker.js": "/louismayor.dev/service-worker.js",
     "static/css/main.c5a34b4c.chunk.css.map": "/louismayor.dev/static/css/main.c5a34b4c.chunk.css.map",
     "static/js/2.18f4c7ec.chunk.js.LICENSE.txt": "/louismayor.dev/static/js/2.18f4c7ec.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d56c475e.js",
     "static/js/2.18f4c7ec.chunk.js",
     "static/css/main.c5a34b4c.chunk.css",
-    "static/js/main.682566ef.chunk.js"
+    "static/js/main.1764c79c.chunk.js"
   ]
 }
